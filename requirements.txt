@@ -1,0 +1,9 @@
+streamlit>=1.18
+pandas
+numpy
+sqlalchemy
+bcrypt
+altair
+seaborn
+matplotlib
+statsmodels
