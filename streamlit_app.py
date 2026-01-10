@@ -301,8 +301,7 @@ This study is a research prototype hosted by the investigator. Please read the f
 **Data collected:** pseudonymized trial-level data (trial-level responses, reaction times, confidence, difficulty, agreement), and minimal account username pseudonym (HMAC). No raw personal identifiers beyond username are stored in plaintext. Environment info (package versions) is saved for reproducibility.  
 **Storage & retention:** Data are stored locally in `app.db` and mirrored to `collected_sessions.csv`. Data will be retained for research use for up to 5 years or as required by ethics. You can request deletion using the contact below.  
 **Withdrawal:** You may withdraw at any time; contact the researcher to request deletion of your data. Withdrawal does not affect your rights.  
-**Contact:** Principal Investigator — [replace-with-email@institution.edu].  
-**Ethics & preregistration:** This study will follow institutional ethics procedures. Planned analysis and materials are pre-registered here: {PREREG_LINK}.
+
 
 By consenting you acknowledge that you are over 18, participation is voluntary, and you allow pseudonymized storage of your trial data for research purposes.
         """
