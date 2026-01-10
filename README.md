@@ -28,3 +28,19 @@ git branch -M main
 git remote add origin https://github.com/<your-username>/aalto-phd-adaptive-explanations.git
 git push -u origin main
 ```
+Outputs
+
+<p align="center"><img src="1.JPG" width="1000"></p>
+<p align="center"><img src="2.JPG" width="1000"></p>
+<p align="center"><img src="3.JPG" width="1000"></p>
+<p align="center"><img src="4.JPG" width="1000"></p>
+<p align="center"><img src="5.JPG" width="1000"></p>
+<p align="center"><img src="6.JPG" width="1000"></p>
+<p align="center"><img src="7.JPG" width="1000"></p>
+
+
+
+**Author:** Shine Jose
+**License:** MIT (see LICENSE file)
+
+This repository is provided as sample educational content by Shine Jose..... Use and modify freely.........
