@@ -1,7 +1,7 @@
 This repository contains application artifacts prepared for a Doctoral Researcher position in interactive AI (Aalto, Engineering Psychology Group).
 
 ## Contents
-- `research_fit.md` — one-page mapping of your projects to the group's interests and a 1st-year project idea.
+- `research_fit.md` — one-page mapping of your projects to the group's interests.
 - `sim_user_study.csv` — simulated pilot dataset for a between-subjects static vs adaptive explanation pilot.
 - `analysis_notebook.ipynb` — notebook with descriptive stats, t-tests and visualisations (matplotlib).
 - `short_report.md` — short report summarising the pilot.
